@@ -64,3 +64,16 @@ Currently building **PrepPilot**, exploring real-time communication, and sharpen
 ---
 
 <p align="center"><b>Have something worth building?</b><br/>I'm looking for a team where I can contribute, learn, and keep improving.<br/><br/><a href="https://www.rajpatel.in/#contact">Let's talk ↗</a> &nbsp;·&nbsp; <a href="https://www.rajpatel.in/">rajpatel.in</a></p>
+
+
+### 04 / Contribution snake
+
+A little momentum, one contribution at a time.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajpatel110/rajpatel110/main/assets/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajpatel110/rajpatel110/main/assets/snake.svg" />
+  <img alt="Animated snake eating Raj Patel's GitHub contributions" src="https://raw.githubusercontent.com/rajpatel110/rajpatel110/main/assets/snake.svg" width="100%" />
+</picture>
+
+<sub>Refreshed daily with GitHub Actions.</sub>
