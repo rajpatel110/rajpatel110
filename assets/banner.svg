@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+<title id="title">Raj Patel — thoughtful interfaces, full-stack curiosity.</title><desc id="desc">A charcoal and lime developer banner with an abstract interface, API, and data connection diagram.</desc>
+<defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern><linearGradient id="fade"><stop stop-color="#c6f36b"/><stop offset="1" stop-color="#68dbc0"/></linearGradient></defs>
+<rect width="1200" height="440" rx="24" fill="#141a18"/><rect width="1200" height="440" rx="24" fill="url(#grid)"/>
+<path d="M0 1H1200" stroke="#c6f36b" stroke-width="3"/>
+<g font-family="Arial, Helvetica, sans-serif"><circle cx="57" cy="53" r="5" fill="#c6f36b"/><text x="74" y="58" fill="#c6f36b" font-size="13" letter-spacing="3">BUILD. UNDERSTAND. IMPROVE.</text>
+<text x="50" y="155" fill="#f3f1e9" font-size="76" font-weight="700" letter-spacing="-4">Raj Patel<tspan fill="#c6f36b">.</tspan></text>
+<text x="54" y="218" fill="#f3f1e9" font-size="32" letter-spacing="-1">Thoughtful interfaces.</text><text x="54" y="262" fill="#9ba9a1" font-size="32" letter-spacing="-1">Full-stack curiosity.</text>
+<rect x="54" y="308" width="270" height="34" rx="17" fill="#c6f36b"/><text x="189" y="330" text-anchor="middle" fill="#141a18" font-size="12" font-weight="700" letter-spacing="1">OPEN TO OPPORTUNITIES</text>
+<path d="M54 379H1146" stroke="#344139"/><text x="54" y="411" fill="#9ba9a1" font-size="12" letter-spacing="2">CSE &amp; CYBER SECURITY / CLASS OF 2027</text><text x="1146" y="411" text-anchor="end" fill="#c6f36b" font-size="14">rajpatel.in ↗</text></g>
+<g fill="none" stroke="#c6f36b" stroke-opacity=".16"><circle cx="923" cy="203" r="148"/><circle cx="923" cy="203" r="116"/><path d="M742 203H1104M923 22V366" stroke-dasharray="3 8"/></g>
+<g font-family="monospace"><rect x="710" y="87" width="284" height="106" rx="12" fill="#1d2721" stroke="#43543e"/><circle cx="730" cy="107" r="3" fill="#c6f36b"/><circle cx="742" cy="107" r="3" fill="#5e6d5c"/><circle cx="754" cy="107" r="3" fill="#5e6d5c"/><text x="732" y="143" fill="#c6f36b" font-size="12">01 / INTERFACE</text><text x="732" y="171" fill="#f3f1e9" font-size="18">Ideas people can use.</text>
+<path d="M994 141H1068V233H1014" stroke="url(#fade)" stroke-width="2" fill="none"/><circle cx="1068" cy="185" r="4" fill="#c6f36b"/>
+<rect x="821" y="217" width="284" height="106" rx="12" fill="#1d2721" stroke="#43543e"/><text x="843" y="249" fill="#a2dfc5" font-size="12">02 / API + DATA</text><text x="843" y="282" fill="#f3f1e9" font-size="18">The work behind it.</text><path d="M821 270H756V210" stroke="#a2dfc5" stroke-width="2" fill="none"/><path d="m751 216 5-6 5 6" stroke="#a2dfc5" fill="none"/></g></svg>
