@@ -1,0 +1,39 @@
+name: Update contribution snake
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/snake.yml']
+permissions:
+  contents: read
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: false
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate light and dark contribution snakes
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: rajpatel110
+          outputs: |
+            assets/snake.svg?color_snake=#537b20&color_dots=#ebeee8,#dbe8c5,#badb84,#91c94a,#609b28
+            assets/snake-dark.svg?palette=github-dark&color_snake=#c6f36b&color_dots=#1d2721,#35482b,#567638,#8fbd4f,#c6f36b
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Save refreshed animations
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/snake.svg assets/snake-dark.svg
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "Refresh contribution snake animations"
+          git pull --rebase origin main
+          git push origin HEAD:main
