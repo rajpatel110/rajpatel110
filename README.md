@@ -1,19 +1,25 @@
-<a href="https://www.rajpatel.in/"><img src="assets/banner.svg" width="100%" alt="Raj Patel — thoughtful interfaces, full-stack curiosity. CSE and Cyber Security, class of 2027. Open to opportunities." /></a>
+<a href="https://www.rajpatel.in/"><img src="assets/banner.svg" width="100%" alt="Raj Patel — full-stack developer. From a curious idea to something that works." /></a>
+
 
 <p align="center">
   <a href="https://www.rajpatel.in/"><b>Portfolio ↗</b></a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/raj-patel-cse"><b>LinkedIn</b></a>
 </p>
 
+
 ### A student today. A builder along the way.
+
 
 I'm **Raj**, a B.Tech **Computer Science & Cyber Security** student at **Pranveer Singh Institute of Technology**, graduating in **2027**. I build web applications and enjoy understanding the whole journey: the interface, the API, and the data behind it.
 
+
 Currently building **PrepPilot**, exploring real-time communication, and sharpening my **DSA problem-solving**. Open to **full-stack internships and entry-level developer roles**.
+
 
 ---
 
 ### 01 / Selected work
+
 
 <table>
 <tr>
@@ -38,14 +44,32 @@ Currently building **PrepPilot**, exploring real-time communication, and sharpen
 </tr>
 </table>
 
+
 **Also exploring**
+
 
 - **Vidloom** — browser-based video and data communication using React, TypeScript, WebRTC, and a Node.js WebSocket signaling server.
 - **EEG Seizure Prediction** — an academic offline baseline using CHB-MIT EEG recordings, MNE, and Logistic Regression. Ongoing work on evaluation and false positives.
 
+
 [More about the projects →](https://www.rajpatel.in/#work)
 
+
 ### 02 / My toolkit
+
+<p>
+<img alt="React" src="https://img.shields.io/badge/React-25272c?style=for-the-badge&amp;logo=react&amp;logoColor=ff9b59" />
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-25272c?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=ff9b59" />
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-25272c?style=for-the-badge&amp;logo=typescript&amp;logoColor=ff9b59" />
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-25272c?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=ff9b59" />
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-25272c?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=ff9b59" />
+<img alt="Express" src="https://img.shields.io/badge/Express-25272c?style=for-the-badge&amp;logo=express&amp;logoColor=ff9b59" />
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-25272c?style=for-the-badge&amp;logo=mongodb&amp;logoColor=ff9b59" />
+<img alt="Git" src="https://img.shields.io/badge/Git-25272c?style=for-the-badge&amp;logo=git&amp;logoColor=ff9b59" />
+<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-25272c?style=for-the-badge&amp;logo=githubactions&amp;logoColor=ff9b59" />
+<img alt="Vercel" src="https://img.shields.io/badge/Vercel-25272c?style=for-the-badge&amp;logo=vercel&amp;logoColor=ff9b59" />
+</p>
+
 
 | Layer | What I work with |
 | :--- | :--- |
@@ -55,20 +79,28 @@ Currently building **PrepPilot**, exploring real-time communication, and sharpen
 | **Workflow & delivery** | Git · GitHub Actions · Node.js tests · ESLint · Prettier · Vercel |
 | **Real-time** | WebRTC · WebSocket · STUN |
 
+
 ### 03 / What keeps me curious
+
 
 - Turning complicated workflows into clear, usable interfaces.
 - Understanding authentication, persistence, and the decisions behind an API.
 - Building real-time experiences and getting better at solving problems.
 
+
 ---
+
 
 <p align="center"><b>Have something worth building?</b><br/>I'm looking for a team where I can contribute, learn, and keep improving.<br/><br/><a href="https://www.rajpatel.in/#contact">Let's talk ↗</a> &nbsp;·&nbsp; <a href="https://www.rajpatel.in/">rajpatel.in</a></p>
 
 
+
+
 ### 04 / Contribution snake
 
-A little momentum, one contribution at a time.
+
+A little momentum, one contribution at a time. An orange snake, fed by real contributions.
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajpatel110/rajpatel110/main/assets/snake-dark.svg" />
@@ -76,4 +108,6 @@ A little momentum, one contribution at a time.
   <img alt="Animated snake eating Raj Patel's GitHub contributions" src="https://raw.githubusercontent.com/rajpatel110/rajpatel110/main/assets/snake.svg" width="100%" />
 </picture>
 
+
 <sub>Refreshed daily with GitHub Actions.</sub>
+
